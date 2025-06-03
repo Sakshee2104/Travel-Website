@@ -8,14 +8,14 @@ A full-stack Airbnb Clone built using the **MERN stack (MongoDB, Express.js, Rea
 - 📍 Browse listings with details and images
 - 🏠 Add and manage your own property listings
 - 📆 Bookings with check-in/check-out dates
-- 💬 Messaging between hosts and guests *(optional)*
-- 🗺️ Interactive map view *(if implemented using Map APIs)*
+- 💬 Messaging between hosts and guests
+- 🗺️ Interactive map view 
 
 ## 🚀 Tech Stack
 
 **Frontend:**
 - React.js
-- Tailwind CSS / Bootstrap *(depending on your choice)*
+- CSS / Bootstrap
 - Axios
 
 **Backend:**
@@ -25,8 +25,7 @@ A full-stack Airbnb Clone built using the **MERN stack (MongoDB, Express.js, Rea
 - JSON Web Tokens (JWT) for Authentication
 
 **Other Tools:**
-- Cloudinary / Firebase for image uploads *(if used)*
-- Mapbox / Google Maps API *(optional)*
+- Mapbox / Google Maps API
 - Postman (for API testing)
 
 ## 📂 Project Structure
