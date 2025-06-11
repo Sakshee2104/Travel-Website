@@ -120,7 +120,8 @@ const Footer = () => {
           </Col>
           <Col lg='12' className='text-center pt-5'>
           <p className='copyright'>
-            Copyright {year}, design and develop by Sakshee</p>
+  © {year} — All rights reserved | Developed by <strong>DevAstra Technologies</strong>
+</p>
           </Col>
         </Row>
       </Container>
